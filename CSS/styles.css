@@ -16,17 +16,9 @@ h1 {
     padding-top: 50px;
 }
 
-.middle-container {
-    background-color: green;
-    height: 200px;
-    width: 200px;
-}
+.middle-container {}
 
-.bottom-container {
-    background-color: yellow;
-    height: 200px;
-    width: 200px;
-}
+.bottom-container {}
 
 .pro {
     text-decoration: underline;
