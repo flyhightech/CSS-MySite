@@ -1,6 +1,7 @@
 body {
     margin: 0;
     text-align: center;
+    line-height: 2;
 }
 
 h1 {
@@ -12,6 +13,13 @@ h1 {
 h2 {
     color: #66BFBF;
     font-weight: normal;
+}
+
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
 }
 
 /* Class Selectors */
@@ -62,7 +70,6 @@ h2 {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
 }
 
 .websiteIcon {
